@@ -1,0 +1,7 @@
+{
+  "denied_parties": [
+    "Blocked Shipping LLC",
+    "Sanctioned Maritime Corp"
+  ],
+  "hazmat_requires_review": true
+}

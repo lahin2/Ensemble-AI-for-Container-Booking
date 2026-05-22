@@ -1,0 +1,29 @@
+[
+  {
+    "origin": "CNSHA",
+    "destination": "USLAX",
+    "container_type": "40HC",
+    "base_ocean_usd": 2850,
+    "baf_usd": 320,
+    "thc_origin_usd": 180,
+    "thc_dest_usd": 210
+  },
+  {
+    "origin": "CNSHA",
+    "destination": "USLAX",
+    "container_type": "20GP",
+    "base_ocean_usd": 1650,
+    "baf_usd": 180,
+    "thc_origin_usd": 120,
+    "thc_dest_usd": 150
+  },
+  {
+    "origin": "CNSHA",
+    "destination": "USNYC",
+    "container_type": "40HC",
+    "base_ocean_usd": 3400,
+    "baf_usd": 380,
+    "thc_origin_usd": 180,
+    "thc_dest_usd": 240
+  }
+]

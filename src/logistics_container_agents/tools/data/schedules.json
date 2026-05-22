@@ -1,0 +1,35 @@
+[
+  {
+    "carrier_line": "Pacific Star Line",
+    "service_string": "PSL-TP1",
+    "voyage": "PSL401E",
+    "vessel_name": "MV Horizon Star",
+    "origin": "CNSHA",
+    "destination": "USLAX",
+    "etd": "2026-06-10",
+    "eta": "2026-06-28",
+    "reliability_score": 0.92
+  },
+  {
+    "carrier_line": "Ocean Meridian",
+    "service_string": "OM-AX1",
+    "voyage": "OM228W",
+    "vessel_name": "MV Meridian Bay",
+    "origin": "CNSHA",
+    "destination": "USLAX",
+    "etd": "2026-06-14",
+    "eta": "2026-07-02",
+    "reliability_score": 0.88
+  },
+  {
+    "carrier_line": "Pacific Star Line",
+    "service_string": "PSL-TP1",
+    "voyage": "PSL415E",
+    "vessel_name": "MV Horizon Star",
+    "origin": "CNSHA",
+    "destination": "USNYC",
+    "etd": "2026-06-18",
+    "eta": "2026-07-12",
+    "reliability_score": 0.9
+  }
+]
