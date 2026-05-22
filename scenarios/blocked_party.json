@@ -1,0 +1,30 @@
+{
+  "shipper": {
+    "name": "Blocked Shipping LLC",
+    "contact_email": "test@blocked.example"
+  },
+  "origin": {
+    "unlocode": "CNSHA",
+    "name": "Shanghai",
+    "country": "CN"
+  },
+  "destination": {
+    "unlocode": "USLAX",
+    "name": "Los Angeles",
+    "country": "US"
+  },
+  "cargo": {
+    "commodity": "General cargo",
+    "weight_kg": 8000,
+    "volume_cbm": 30,
+    "hazmat": false
+  },
+  "containers": [
+    {
+      "type": "20GP",
+      "quantity": 1,
+      "soc": false
+    }
+  ],
+  "incoterm": "FOB"
+}

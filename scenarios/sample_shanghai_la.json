@@ -1,0 +1,32 @@
+{
+  "shipper": {
+    "name": "Acme Electronics Ltd",
+    "contact_email": "ops@acme.example"
+  },
+  "origin": {
+    "unlocode": "CNSHA",
+    "name": "Shanghai",
+    "country": "CN"
+  },
+  "destination": {
+    "unlocode": "USLAX",
+    "name": "Los Angeles",
+    "country": "US"
+  },
+  "cargo": {
+    "commodity": "Consumer electronics",
+    "weight_kg": 12000,
+    "volume_cbm": 58,
+    "hazmat": false
+  },
+  "containers": [
+    {
+      "type": "40HC",
+      "quantity": 1,
+      "soc": false
+    }
+  ],
+  "incoterm": "FOB",
+  "ready_date": "2026-06-01",
+  "notes": "Sample request template — configure LLM_PROVIDER before running book."
+}
